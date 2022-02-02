@@ -1,0 +1,25 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "npm-lab, detailing how to create a node package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laikaDe/npm-lab.git"
+  },
+  "keywords": [
+    "npm-lab"
+  ],
+  "author": "Laika Deunert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laikaDe/npm-lab/issues"
+  },
+  "homepage": "https://github.com/laikaDe/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
